@@ -1,0 +1,8 @@
+Caught Unhandled Exception At:
+
+[-] Address: cheatkiller.dll + 0x19AA5
+[-] Exception Code: 0xC0000096
+
+EAX=0x56FD9AA5  EBX=0x0F32FD8C  ECX=0x00000100
+EDX=0x00000000  EDI=0x0F32F538  ESI=0x570256B8
+

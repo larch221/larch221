@@ -1,0 +1,9 @@
+[stat]
+CurDownload=8717
+TotalToDownload=8717
+ByteRecv=9027
+FileSize=9027
+TotalRecv=3061567198
+TotalSize=3061501103
+DownloadedFiles=8716
+filename=DataTable\clientdb.dat.117414.zip
